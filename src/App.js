@@ -23,7 +23,6 @@ const App = () => {
           <Route path="/cocktails" element={<AuthGuard><Cocktails/></AuthGuard>}/>
       </Routes>
       </BrowserRouter>
-      <Footer> </Footer>
     </div>
   )
 }
