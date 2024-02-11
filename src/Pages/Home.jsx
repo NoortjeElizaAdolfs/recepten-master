@@ -4,17 +4,17 @@ import Navbar from "../Components/Navbar";
 import Footer from "../Components/Footer";
 
 function Home() {
-    return(
+    return (
         <>
-        <Navbar/>
-        <main className="banner">
-            <div className="banner-info">
-            <h1>WELKOM BIJ <br/>onze recepten pagina</h1>
-            <Link to="/recepten">Recepten</Link>
-            </div>
-        </main>
-        <Footer> </Footer>
+            <Navbar />
+            <main className="banner">
+                <div className="banner-info">
+                    <h1>WELKOM BIJ <br />onze recepten pagina</h1>
+                </div>
+            </main>
+            <Footer />
         </>
-    )
+    );
 }
+
 export default Home;

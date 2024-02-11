@@ -15,18 +15,19 @@ function Footer() {
                         <strong>Over ons</strong> <br/>
 
                     <div>
-                        <a href='#'>Portfolio</a> <br />
-                        <a href='#'>Werken bij</a><br />
-                        <a href='#'>Contact</a>
+                        <a href='/recepten'>Recepten</a> <br />
+                        <a href='/inpiratie'>Inspiratie</a><br />
+                        <a href='/cocktails'>Cocktails</a>
+                        <a href='/logout'>Logout</a>
                     </div>
 
                 </div>
 
                 <div className="f-col">
                         <strong>Contacteer ons</strong> <br/> 
-                        <p>Lorem ipsum dolor sit amet, consectateur adispicing elit. <br/>
-                        Fusce euismod convallis velit
-                        <br/>+07001234567</p>
+                        <p>Geniet lekker van alle recepten. <br/>
+                        en we hopen u snel te zien
+                        <br/>+315789675878</p>
                 </div>
 
                 {/* <div className="footer-sm-icons f-col">
