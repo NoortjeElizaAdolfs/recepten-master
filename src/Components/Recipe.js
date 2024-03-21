@@ -10,8 +10,9 @@ const Recipe = ({ recipe }) => {
         <a href={url} target="_blank" rel="noopener noreferrer">
             <h2>{label}</h2>
             <img src={image} alt={label} />
+            <button type="submit" onClick={() => setShow(!show)}>Ingredients</button>
         </a>
-      <button type="submit" onClick={() => setShow(!show)}>Ingredients</button>
+      
       {show && <RecipeDetails ingredients={ingredients} />}
     </article>
   );
