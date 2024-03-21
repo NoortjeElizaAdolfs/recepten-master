@@ -6,6 +6,13 @@
   padding: 0;
 
 }
+main{
+  padding: 50px 150px;
+  .subtitle{
+    color: black;
+    margin: auto;
+  }
+}
 
 .container {
   background-color: white;
@@ -52,7 +59,7 @@
     .fb-item {
     margin: 3rem
   }
-  height:  100vh;
+  height:  300px;
   width: 100%;
   background: url('../../public/banner.jpg');
   background-size: cover;
