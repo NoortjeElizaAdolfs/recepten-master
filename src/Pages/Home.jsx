@@ -14,7 +14,7 @@ function Home() {
             </header>
             <main>
                 <h2 class="subtitle">Wat is Diet chef?</h2><br/>
-                <p>
+                <p class="landingtext">
                 "Stap binnen in een culinaire wereld van smaakvolle ontdekkingen!
                 Welkom op onze eten pagina, waar elke hap een avontuur is en elk gerecht een verhaal vertelt. 
                 Laat je inspireren door een overvloed aan heerlijke recepten, boordevol smaak en creativiteit.
