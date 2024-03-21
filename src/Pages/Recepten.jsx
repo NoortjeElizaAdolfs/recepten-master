@@ -51,7 +51,6 @@ function Recepten() {
             <main className="container search">
                 <section className="fb-item">
                     <h1>Recipes</h1>
-                    <h1>Food Searching App</h1>
                     <h2>Hier kunt u aanvinken wat u graag wil eten en gerechten met uw dieetwensen kan uitkiezen.</h2>
                 </section>
                 <section className="fb-item search-bar">
