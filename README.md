@@ -5,7 +5,7 @@
 #####   React project uitvoeren
 ######  Werking Applicatie
 
-https://github.com/NoortjeElizaAdolfs/recepten
+https://github.com/NoortjeElizaAdolfs/recepten-master
 ______________________________________________________________________________________________________
 # Handleiding React
 Zelfgeschreven installatiehandleiding als README.md in de projectmap
